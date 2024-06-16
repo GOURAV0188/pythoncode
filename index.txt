@@ -1,0 +1,22 @@
+step1. java -version
+step2.sudo apt  install default-jre
+step3.sudo apt install default-jdk
+
+
+
+step4.sudo update-alternatives --config java 
+
+
+step5.sudo ~/.bashrc
+
+step6.  enter   the code  in bashrc  file 
+export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
+export JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64"
+export PATH="$JAVA_HOME/bin:$PATH"
+
+
+7.source ~/.bashrc
+
+
+
+8.echo $JAVA_HOME

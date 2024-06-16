@@ -1,0 +1,40 @@
+a silo refers to a system, process, or department that operates in isolation, hindering communication and collaboration.
+
+
+
+IT resilience is the ability of an organization to maintain acceptable service levels when there is a disruption of business operations, critical processes, or your IT ecosystem
+
+
+
+Hybrid and multi cloud systems create complexity
+
+
+
+
+ point of sale  web  mobile 
+IaaS, or Infrastructure as a Service,
+
+
+A federated network is a network model in which a number of separate networks or locations share resources
+“Mean Time to” is described in what we call the MTTx, several measurements of the time it takes for an event in an incident to occur.
+  comprehensive visibility across     envivirnment 
+
+enterprises  scale analytics  that accelerate  MTTXs 
+  ONLY LEADER   ACORSS  SECURITY A ND  OBSERVALIBILTY 
+ UNIFIED   PLATFORM   to  felxible  manage and  contextualize  massive data  volume 
+
+
+splunkcloud platform  
+new feature   from daily  to 4-6 week 
+
+splunk enterprises  platform 
+
+
+major release  1-2x  per year 
+
+
+
+
+Splunk Cloud Platform meets the industry’s most stringent compliance regulations: SOC 2 Type 2,ISO 27001,PCI-DSS, HIPAA, FedRAMP Moderate Impact Leveland DoD Provisionally Authorized at IL5
+Encryption in-transit and optionally at restfor standard cloud environments* 
+Internationally compliant with IRAP andUK Cyber Essentials Plus
